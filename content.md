@@ -43,7 +43,7 @@ However, as we've seen, the RCAVs for CRUD are pretty much the same from table t
 
 So: Rails provides a way to automate writing this boilerplate code — resource generators.
 
-[Read more about the `draft:resource` generator here.](https://learn.firstdraft.com/lessons/133)
+[Read more about the `draft:resource` generator here.](https://learn.firstdraft.com/lessons/133-draft-resource-generator)
 
 Then, come back and let's generate our two tables, but with the resource generator. At a bash prompt, generate the `Board` table using the `draft:resource` generator rather than the `model` generator:
 
@@ -82,7 +82,7 @@ Additional notes are below.
 
 ## Data integrity with validations
 
-We'll use what we learned in the [Data integrity with validations lesson](https://learn.firstdraft.com/lessons/132) in this project. Be sure to review it.
+We'll use what we learned in the [Data integrity with validations lesson](https://learn.firstdraft.com/lessons/132-data-integrity-with-validations) in this project. Be sure to review it.
 
 ---
 
