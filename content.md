@@ -78,12 +78,6 @@ Now, let's massage the generated, boilerplate code until it matches the target.
 
 [Here is a walkthrough video that you should follow along with.](https://share.descript.com/view/DlxVNV7HMx4)
 
-Additional notes are below.
-
-## Data integrity with validations
-
-We'll use what we learned in the [Data integrity with validations lesson](https://learn.firstdraft.com/lessons/132-data-integrity-with-validations) in this project. Be sure to review it.
-
 ---
 
 - Approximately how long (in minutes) did this lesson take you to complete?
